@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">POMSshortening</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_pomsshortening">POMSshortening</string>
+    <string-array name="question"></string-array>
+
+</resources>
